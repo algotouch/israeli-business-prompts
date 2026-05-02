@@ -66,7 +66,7 @@ notes: |
 
 # Why this works
 
-זה ה-system prompt שאנחנו ב-Agentics by Quatro מצרפים לכל סוכן AI עברי. אין כאן הוראות
+זה ה-system prompt שאנחנו ב-Agentics מצרפים לכל סוכן AI עברי. אין כאן הוראות
 מאוד מפורטות — יש מסגרת. הסיבה: יותר מדי הוראות גורמות למודל לאבד יכולת חשיבה (מה ש-Anthropic
 קוראים לו "the Goldilocks zone"). עיין במאמר "Effective context engineering for AI agents".
 

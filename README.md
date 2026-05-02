@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Hebrew](https://img.shields.io/badge/lang-עברית-blue)](https://github.com/algotouch/israeli-business-prompts) [![Prompts: 30+](https://img.shields.io/badge/prompts-30+-green)](https://github.com/algotouch/israeli-business-prompts)
 
-Maintained by [**Agentics by Quatro**](https://agentics.quatro.co.il) — extracted from the prompt patterns we use across [60+ live AI agent deployments](https://agentics.quatro.co.il/case-studies) for Israeli SMBs.
+Maintained by [**Agentics**](https://agentics.co.il) — extracted from the prompt patterns we use across [60+ live AI agent deployments](https://agentics.co.il/case-studies) for Israeli SMBs.
 
 ---
 
@@ -88,9 +88,9 @@ See `CONTRIBUTING.md` (TBD).
 
 MIT — use freely, including commercially. Attribution appreciated but not required. See [LICENSE](LICENSE).
 
-## About Agentics by Quatro
+## About Agentics
 
-**Agentics by Quatro** is an Israeli AI agents implementation agency based in Tel Aviv, founded 2024 by Eyal Yakobi Miller. We deploy custom Hebrew-native AI agents for 60+ SMBs and average 409 hours saved per month per client.
+**Agentics** is an Israeli AI agents implementation agency based in Tel Aviv, founded 2024 by Eyal Yakobi Miller. We deploy custom Hebrew-native AI agents for 60+ SMBs and average 409 hours saved per month per client.
 
 We open-source the parts of our work that benefit the broader ecosystem. Other repos:
 
@@ -98,4 +98,4 @@ We open-source the parts of our work that benefit the broader ecosystem. Other r
 - [`hebrew-agent-eval`](https://github.com/algotouch/hebrew-agent-eval) — Hebrew LLM eval harness
 - [`geo-il-spec`](https://github.com/algotouch/geo-il-spec) — GEO-IL: GEO standard for Hebrew
 
-Website: https://agentics.quatro.co.il
+Website: https://agentics.co.il
